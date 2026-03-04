@@ -8,7 +8,7 @@
 1. **初始化**：`git init` (在当前文件夹内创建 Git 档案库)
 2. **暂存**：`git add .` (将当前所有文件加入暂存区，准备提交)
 3. **存档**：`git commit -m "Initial commit"` (记录项目当前版本的首个快照)
-4. **关联**：`git remote add origin [URL]` (将本地仓库连接至远程 GitHub 仓库)
+4. **关联**：`git remote add origin https://github.com/NoExemption/<仓库名>` (将本地仓库连接至远程 GitHub 仓库)
 5. **拉取**：`git pull origin main --rebase` (强制合并云端已有文件，确保起点一致)
 6. **推送**：`git push -u origin main` (上传代码并建立本地与云端分支的追踪关系)
 
