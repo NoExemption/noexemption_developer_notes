@@ -6,7 +6,7 @@
 
 ## 👋 简介 (Introduction)
 
-欢迎来到 **noexemption_developer_notes**。
+欢迎来到 **noexemption-developer-notes**。
 
 这是一个个人的数字花园，专门用于存放我的备忘录、`.md` 文档以及个人相关的学习笔记。在这个日新月异的技术世界里，这里记录着我探索真理的每一个脚印。
 
